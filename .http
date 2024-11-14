@@ -7,8 +7,8 @@ GET {{host}}/notes
 ### GET existing note
 GET {{host}}/notes/5
 
-### POST new note with text
-POST {{host}}/notes
+### POST new note with text   //Returns 500 error
+POST {{host}}/notes   
 Content-Type: application/json
 
 {
