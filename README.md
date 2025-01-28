@@ -1,4 +1,4 @@
-# Guided Practice - Notepad
+# Block 32 Express, Guided Practice: Notepad
 Use the barebones API to set up error handling middleware and refactor the existing routes into a separate router.
 
 ## Getting Started
